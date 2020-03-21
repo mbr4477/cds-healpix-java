@@ -3,7 +3,7 @@
  Simple ANT build.xml file for compiling and generating healpix.jar
  * Author : F.-X. Pineau [CDS]
 -->
-<project name="Healpix" default="print_properties" basedir=".">
+<project name="Healpix" default="make.all" basedir=".">
 
   <description>${title} build.xml</description>
 
